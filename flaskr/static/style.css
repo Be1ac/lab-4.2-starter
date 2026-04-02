@@ -30,3 +30,7 @@ p {
     height: 1500px;
     width: 1500px;
 }
+
+.content{
+    font-size: 80px;
+}
