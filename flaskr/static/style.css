@@ -24,3 +24,9 @@ p {
     margin-top: 30px;
     border-radius: 80px;
 }
+
+.main-pic{
+    position: fixed;
+    height: 1500px;
+    width: 1500px;
+}
